@@ -1,3 +1,12 @@
-Let me know if you're working with a public or private repo, and
-I can tailor the instructions 
-better for your case.
+<!DOCTYPE html>
+<html>
+<head>
+<title>Simple</title>
+</head>
+<body>
+
+<h1>Hello World</h1>
+<p>This is a simple HTML page.</p>
+
+</body>
+</html>
